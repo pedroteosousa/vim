@@ -7,4 +7,4 @@ set mouse=a
 set number
 set ruler
 autocmd BufNewFile *.cpp :0r ~/.vim/cpp.skel
-autocmd BufNewFile *.cpp +8
+autocmd BufNewFile *.cpp +7
