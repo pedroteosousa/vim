@@ -7,7 +7,6 @@ nnoremap <C-up> :m-2<CR>
 nnoremap <C-down> :m+1<CR>
 vnoremap <C-up> :m-2<CR>gv
 vnoremap <C-down> :m'>+1<CR>gv
-colors evening
 syntax on
 "highlight Normal ctermbg=NONE "No background
 "highlight nonText ctermbg=NONE
