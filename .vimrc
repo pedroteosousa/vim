@@ -1,5 +1,4 @@
 set ai si noet ts=4 sw=4 sta sm nu rnu
-inoremap {<CR> {<CR>}<Esc>O
 inoremap <NL> <ESC>o
 nnoremap <NL> o
 inoremap <C-up> <C-o>:m-2<CR>
@@ -13,5 +12,5 @@ syntax on
 "highlight Normal ctermbg=NONE "No background
 "highlight nonText ctermbg=NONE
 autocmd BufNewFile *.cpp :0r ~/.vim/cpp.skel
-autocmd BufNewFile *.cpp +7
+autocmd BufNewFile *.cpp +10
 autocmd BufNewFile Makefile :0r ~/.vim/Makefile.skel
