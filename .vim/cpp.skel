@@ -2,10 +2,11 @@
 
 using namespace std;
 
+#define debug(args...) fprintf(stderr,args)
+#define pb push_back
+
 const int N = 1e5 + 5;
 const int inf = 1791791791;
-
-#define pb push_back
 
 int main() {
 
