@@ -12,5 +12,5 @@ colors evening
 highlight Normal ctermbg=none "No background
 highlight nonText ctermbg=none
 autocmd BufNewFile *.cpp :0r ~/.vim/cpp.skel
-autocmd BufNewFile *.cpp +10
+autocmd BufNewFile *.cpp +11
 autocmd BufNewFile Makefile :0r ~/.vim/Makefile.skel
