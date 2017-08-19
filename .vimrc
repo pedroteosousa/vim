@@ -8,8 +8,9 @@ nnoremap <C-down> :m+1<CR>
 vnoremap <C-up> :m-2<CR>gv
 vnoremap <C-down> :m'>+1<CR>gv
 syntax on
-"highlight Normal ctermbg=NONE "No background
-"highlight nonText ctermbg=NONE
+colors evening
+highlight Normal ctermbg=none "No background
+highlight nonText ctermbg=none
 autocmd BufNewFile *.cpp :0r ~/.vim/cpp.skel
 autocmd BufNewFile *.cpp +10
 autocmd BufNewFile Makefile :0r ~/.vim/Makefile.skel
