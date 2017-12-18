@@ -4,11 +4,13 @@ using namespace std;
 
 #define debug(args...) fprintf(stderr,args)
 #define pb push_back
+#define mp make_pair
 
-const int N = 1e5 + 5;
+const int N = 5e6 + 5;
 const int inf = 1791791791;
+const int mod = 1e9+7;
 
 int main() {
-
+	
     return 0;
 }
