@@ -1,4 +1,3 @@
 # vim
 
-Run this command to automatically update vim files.
-`sh update.sh`
+Run `sh update.sh` to automatically update vim files.
