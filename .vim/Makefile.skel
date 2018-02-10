@@ -1,5 +1,0 @@
-CC = g++
-CC_FLAGS = -std=c++14
-
-% : %.cpp
-	$(CC) $(CC_FLAGS) $< -o $@
