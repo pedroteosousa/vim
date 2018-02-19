@@ -21,6 +21,6 @@ highlight Normal ctermbg=none "No background
 highlight nonText ctermbg=none
 
 autocmd BufNewFile *.cpp :0r ~/.vim/cpp.skel
-autocmd BufNewFile *.cpp +15
+autocmd BufNewFile *.cpp +14
 
 filetype indent on
