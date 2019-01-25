@@ -7,11 +7,10 @@ using namespace std;
 
 typedef long long ll;
 
-const int N = 5e6 + 5;
 const ll inf = 1791791791;
 const ll mod = 1e9+7;
+const int N = 5e6 + 5;
 
 int main() {
 	
-    return 0;
 }
