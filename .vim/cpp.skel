@@ -1,9 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define debug(args...) fprintf(stderr,args)
-#define pb push_back
-#define mp make_pair
+#define debug(args...) fprintf(stderr, args)
 
 typedef long long ll;
 
